@@ -7,5 +7,9 @@ public class Calculator {
         System.out.println(number1 + number2);
     }
 
+    public int SubtractionTwoNumbers(int number1, int number2){
+        return number1 - number2;
+    }
+
 
 }

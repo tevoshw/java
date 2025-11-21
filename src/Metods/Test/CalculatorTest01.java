@@ -2,7 +2,7 @@ package Metods.Test;
 
 import Metods.Dominium.Calculator;
 
-public class CalculatorTest {
+public class CalculatorTest01 {
 
 
     static void main(String[] args) {
