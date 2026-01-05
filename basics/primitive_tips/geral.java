@@ -1,6 +1,6 @@
 package basics.primitive_tips;
 
-public class integer {
+public class geral {
     public static void main(String[] args) {
         
         // INT 
