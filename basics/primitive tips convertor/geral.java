@@ -7,10 +7,11 @@ public class geral {
 
         float n2 = (float) n; // FIRST WAY
         float n3 = n1; // SECOND WAY
-        
+
         System.out.println(n2);
         System.out.println(n3);
 
         
     }
 }
+    
